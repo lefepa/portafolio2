@@ -1,0 +1,24 @@
+body {
+
+    display: flex;
+    flex-direction: column;
+}
+
+aside {
+
+    width: 25%;
+    background-color: blue;  
+    align-self: flex-end; 
+
+}
+
+header {
+
+    background-color: black;
+}
+
+img {
+    width: 10%;
+    border-radius: 70%;
+    align-self: flex-end;
+}
